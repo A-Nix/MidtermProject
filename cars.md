@@ -1,4 +1,4 @@
-# My top car companies
+# My top car brands
 1. Infiniti</br>
 2. Lexus</br>
 3. Mercedes</br>
