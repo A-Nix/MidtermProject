@@ -7,5 +7,5 @@
 
 [Return to home](README.md)</br>
 
-My beautiful baby </br>
+**My beautiful baby.** </br>
 ![alt text](car.jpg)
